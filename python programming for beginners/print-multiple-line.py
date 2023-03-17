@@ -3,4 +3,4 @@ a = """Python is a high-level, general-purpose programming language.
  Python is dynamically typed and garbage-collected. 
  It supports multiple programming paradigms, including structured, 
  object-oriented and functional programming."""
-print(a)
+print(a) 
