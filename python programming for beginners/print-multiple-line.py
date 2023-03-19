@@ -12,14 +12,13 @@ print(a)
 
 
 
-b=("Python is a \n    high-level")
+b=("Python is a \nhigh-level")
 print (b)
 
 
 
 
 print("hi",6,7, sep="*")
-print
 
 
 
@@ -35,8 +34,8 @@ print(6,7,8,9,10)
 coures= "python programing"
 
 print(len(coures))
-print(coures[1])
 print(coures[1:11:4])
+print(coures[1])
 print(coures[0:])
 print(coures.find("n"))
 print(coures.replace("P","t"))
